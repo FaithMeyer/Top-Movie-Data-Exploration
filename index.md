@@ -25,6 +25,8 @@ What initially drew me to this data set is the wide range of movies that were us
     The other question I had is does the distributer of the movied really matter?
   
 - What questions came up as you worked with the data? 
+ While I was working with the data, I was wondering why Disney has been so successful with all of the movies they make? Does it have to with the fact that everyone knows about them and the nostalgia factor that people feel when watching their movies, or the types of movies they make, or something else.
+ 
 - Was there anything that surprised you about the data?
 - Was it easy to work with or did you have to clean or "wrangle" the data?
 I did have to clean up the data. With this data set, some movies had more than one genre. I decided to separate out all of the genres into their own category and just focus on the first one, that way I would not have 1000 different genres to deal with and I only had a few main ones. I also cleaned up the runtime of the movies. I decided to keep the runtimes consistant by having them all be in minutes, that way it would be a bit easier to manage when creating the graphs.
