@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Top Movie Data Exploration
+### Faith Meyer
 
-You can use the [editor on GitHub](https://github.com/FaithMeyer/Top-Movie-Data-Exploration/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- What is the core discovery you made, the most interesting thing that you can describe with this data? 
+- What will your supporting arguments be for your discovery?
 
-### Markdown
+## Dataset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The data set I used is the Top 1000 Highest Grossing Movies. You can find the data here: [https://www.kaggle.com/sanjeetsinghnaik/top-1000-highest-grossing-movies?select=Highest+Holywood+Grossing+Movies.csv]
+The data looks at the top 1000 movies and shows data on some of the different aspects of each movie, such as the rating, distributer, title, amount it made domestically and internationally, runtime, etc. The data was found from different sources such as IMDB, Rotten Tomatoes, and other movie detail sites that were not specified. I a interested in this data set because I am a big fan of going to movies and I am curious why certain movies and types of movies do better than others.
+Describe your data set, including a link to the data. 
+- What is this data about?
+- Who collected or produced this dataset? Why?
+- Why are you interested in it?
 
-```markdown
-Syntax highlighted code block
+## Initial Questions
 
-# Header 1
-## Header 2
-### Header 3
+What initially drew me to this data set is the wide range of movies that were used and how there are movies from as early as the 1930s up to early this year. I was curious about if the reason certain movies did well was just because of the distributer, the franchise, the rating, or something completely different.
+- What initially drew you to this data? 
+- What were you currious about? 
 
-- Bulleted
-- List
+    The first question I focused on is what types of things draw high sales for a movie? 
+    The other question I had is does the distributer of the movied really matter?
+  
+- What questions came up as you worked with the data? 
+- Was there anything that surprised you about the data?
+- Was it easy to work with or did you have to clean or "wrangle" the data?
+I did have to clean up the data. With this data set, some movies had more than one genre. I decided to separate out all of the genres into their own category and just focus on the first one, that way I would not have 1000 different genres to deal with and I only had a few main ones. I also cleaned up the runtime of the movies. I decided to keep the runtimes consistant by having them all be in minutes, that way it would be a bit easier to manage when creating the graphs.
 
-1. Numbered
-2. List
+## Discoveries & Insights
 
-**Bold** and _Italic_ and `Code` text
+Images should be large and easy to see and interperate. 
+Captions underneath should be 20-70 words long.
 
-[Link](url) and ![Image](src)
-```
+## Conclusion
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Final summary of the data and what you found during this project.
 
-### Jekyll Themes
+## Sources
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FaithMeyer/Top-Movie-Data-Exploration/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Did any sources help you understand your data better? Make sure to cite them.
+Data set: [https://www.kaggle.com/sanjeetsinghnaik/top-1000-highest-grossing-movies?select=Highest+Holywood+Grossing+Movies.csv]
