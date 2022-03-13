@@ -22,8 +22,8 @@ What initially drew me to this data set is the wide range of movies that were us
 - What were you currious about? 
 
     The first question I focused on is what types of things draw high sales for a movie? 
-    The other question I had is does the distributer of the movied really matter?
-  
+    The other question I had is does the distributer of the movie really matter or do other aspects matter more to drive sales?
+ 
 - What questions came up as you worked with the data? 
  While I was working with the data, I was wondering why Disney has been so successful with all of the movies they make? Does it have to with the fact that everyone knows about them and the nostalgia factor that people feel when watching their movies, or the types of movies they make, or something else.
  
