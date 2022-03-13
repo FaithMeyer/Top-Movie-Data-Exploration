@@ -29,10 +29,11 @@ What initially drew me to this data set is the wide range of movies that were us
  
 - Was there anything that surprised you about the data?
 - Was it easy to work with or did you have to clean or "wrangle" the data?
-I did have to clean up the data. With this data set, some movies had more than one genre. I decided to separate out all of the genres into their own category and just focus on the first one, that way I would not have 1000 different genres to deal with and I only had a few main ones. I also cleaned up the runtime of the movies. I decided to keep the runtimes consistant by having them all be in minutes, that way it would be a bit easier to manage when creating the graphs.
+I did have to clean up the data. With this data set, some movies had more than one genre. I decided to separate out all of the genres into their own category and just focus on the first one, that way I would not have 1000 different genres to deal with and I only had a few main ones. I also cleaned up the runtime of the movies. I decided to keep the runtimes consistant by having them all be in minutes, that way it would be a bit easier to manage when creating the graphs. There also were parts of the data where information was missing, such as the rating, release time, or runtime, so I had to decide whether to keep those data points in or not. I decided to keep them in because when I looked at at some of the different sections that were complete, I would not have as much data to work with and the results might not give a full picture of what is going on.
 
 ## Discoveries & Insights
 
+![Sheet 2](/Sheet 2.png)
 Images should be large and easy to see and interperate. 
 Captions underneath should be 20-70 words long.
 
